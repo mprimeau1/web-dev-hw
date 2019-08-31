@@ -1,0 +1,11 @@
+How is the web different than the internet?
+The internet connects devices together globally, while the web is sending the actual information. The web was created after the internet as a faster way send information.
+
+Briefly describe how the internet works.
+The internet is a network of lines connected to multiple servers. A website like Facebook.com has its own unique server. Other companies like Comcast also have their own server and are used as the in-between guy of sending and receiving information. When sending information from a computer the information goes from your server like Comcast to another server website, like facebook.com. This information is then sent back to your own personal network then onto your computer. The speed of information is incredible and happens in seconds. 
+
+What is a directory, and what is its relationship to files?
+A directory is a organization system of nesting folders. Files are placed in the folders. The "parent" folder is always first then the next is listed below it and then indented. 
+
+Why is using a VCS beneficial?
+VCS is beneficial because as a developer you can see make changes overtime to the files. You can also get help from other developers and collaborate with them on other projects. Github is also used in the professional world and getting familiar with it can help prepare for the future jobs.
