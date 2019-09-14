@@ -16,4 +16,4 @@ HTML is a common language in development, this language is very common on the we
 
 
 An embedded image of your screenshot using its relative URL.
-Here is a link to my ![screenshot](./images/screenshot.png)
+Here is a link to my ![screenshot](./images/Screenshot.png)
