@@ -12,17 +12,17 @@
     <title>Contact Page</title>
     <style>
       body{
-      background-color: darkgreen;
+      background-color: maroon;
       text-align: center;
     }
     nav {
-      background-color: powderblue;
-      text-align: center;
+      background-color: orange;
+      text-align: left;
     }
     a {
-      background-color:white;
-      color: teal;
-      padding: 5px;
+      background-color: rgb(51, 25, 6);
+      color: white;
+      padding: 10px;
     }
     </style>
   </head>
@@ -36,8 +36,34 @@
     </nav>
 
     <div id="main">
-      <h2>This is the Contact page</h2>
+      <h1>This is the Contact page</h1>
     </div>
+
+    <form action="https://example.com/registration.php" method="post">
+      What is your name or nickname:
+
+      <input type="text" name="firstname" maxlength="10" autofocus>
+
+      <br><br>
+
+      Have a question about the recipe? Ask below
+      <br>
+      <textarea cols="35" rows="10">
+      Ask your questions here!
+      </textarea>
+
+      <br><br>
+
+      <input type="button"
+      value="Submit!">
+    </form>
+
+    <hr/>
+
+    <p>Have any questions about this recipe?   <a
+      href="mailto:mary.primeau@umconnect.umt.edu">Email Me!</a>
+    </p>
+
 
   </body>
 
