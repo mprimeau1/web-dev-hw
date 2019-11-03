@@ -1,29 +1,52 @@
 
   h1{
-    color:blue;
+    color:black;
   }
 
+  body {
+   background-color: rgb(95, 95, 102);
+}
+
+  .title {
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    position: absolute;
+    left:0px;
+    opacity: 1.0;
+  }
+
+/* this is the smoking block with an image */
 .smoking {
   width: 50%;
   height: 500px;
   text-align: center;
   position: absolute;
+  margin: 60px auto 60px auto;
+  opacity: 1.0;
 }
-
+/* this is the dinner block with an image */
 .dinner {
   width: 50%;
   height: 500px;
   text-align: center;
   position: absolute;
   right: 0px;
+  margin: 60px auto 60px auto;
+  opacity: 1.0;
 }
-
+/* this is the music block with a video */
 .music {
   width: 100%;
-  height: 500px;
+  height: 450px;
   text-align: center;
   position: absolute;
-  margin: 500px auto 500px auto;
+  margin: 560px auto 560px auto;
+  opacity: 1.0;
+}
+
+#title {
+  background-color: rgb(139, 89, 139)
 }
 
 #pink {
