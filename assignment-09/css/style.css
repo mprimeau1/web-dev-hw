@@ -1,0 +1,25 @@
+
+  h1{
+    color:blue;
+  }
+
+.square {
+  width: 50%;
+  height: 200px;
+}
+
+#pink {
+  background-color: #FF377B
+}
+
+#green {
+  background-color: #7DE522
+}
+
+#yellow {
+  background-color: #FBE608
+}
+
+#blue {
+  background-color: #3AB1FC
+}
