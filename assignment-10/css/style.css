@@ -1,0 +1,47 @@
+/* Page-Wide */
+body {
+  background-color: rgb(191, 213, 53);
+  color: black;
+  padding: 5px;
+  font-family: 'Big Shoulders Text', cursive;
+}
+
+/* Paragraph Content */
+
+.text {
+  background-color: :rgb(39, 44, 122);
+  color: rgb(39, 152, 0);
+  padding: 5px;
+  font-family: 'Roboto Mono', monospace;
+  line-height: 2em;
+}
+P:first-letter{
+  font-family: 'Major Mono Display', monospace;
+  font-size: 3em;
+  font-weight:500;
+  color: rgb(164, 55, 15)
+
+}
+/* "Read More!" Link */
+a{
+background-color: rgb(45, 200, 139);
+color: rgb(18, 148, 43);
+padding: 5px;
+
+}
+
+a:hover{ background-color: rgb(186, 134, 94);
+
+
+}
+
+a:visited{
+  font-style: italic;
+
+
+}
+
+a:active{
+color: rgb(46, 62, 60);
+
+}
