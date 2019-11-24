@@ -1,12 +1,43 @@
+body {
+ background-color: rgb(74, 65, 45);
+ font-family: 'Nanum Gothic', sans-serif;
+}
+
+h1{
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 5em;
+    font-weight:500;
+    color: rgb(193, 122, 17);
+    text-align: center;
+}
+
+h2{
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 3em;
+    font-weight:500;
+    color: rgb(193, 122, 17);
+    text-align: center;
+}
+
+P:first-letter{
+    first-letter
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 3em;
+    font-weight:500;
+    color: rgb(193, 122, 17);
+}
+
+
+
 /* Set your header design: */
 header {
-    background-color: #26272b;
-    font-family: sans-serif;
+    background-color: rgb(27, 64, 27);
+    font-family: 'Nanum Gothic', sans-serif;
     font-size: 10pt;
     text-transform: uppercase;
     margin: 0;
     height: 2.15em;
-    text-align: right;
+    text-align: center;
 }
 
 /* Set the layout of the menu: */
@@ -15,7 +46,7 @@ header {
     margin: 0 0;
     min-width: 8em;
     text-align: center;
-    background-color: #26272b;
+    background-color:rgb(148, 81, 32);
     padding: 0.5em 0;
 }
 
@@ -39,7 +70,7 @@ header {
     margin: 0;
     margin-top: 0.5em;
     color: #000;
-    background-color: #fff;
+    background-color: rgb(148, 81, 32);
     z-index: 1;
 }
 .dropdown-content a {
@@ -52,12 +83,12 @@ header {
 /* Style dropdown item display: */
 .dropdown-item {
     display: block;
-    text-align: left;
+    text-align: center;
     margin: 0;
     padding: 0.5em;
     min-width: 7em;
 }
 .dropdown-item:hover, .dropdown-item:hover a {
     color: #baf0ef;
-    background-color: #a2a2a2;
+    background-color: rgb(66, 61, 58);
 }
