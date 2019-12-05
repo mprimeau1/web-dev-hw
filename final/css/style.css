@@ -103,6 +103,13 @@ header {
 }
 
 
+ footer{
+    background-color:rgb(86, 93, 92);
+    margin: 0;
+    height: 4.2em;
+
+ }
+
 /* Social media icons with color change on hover: */
 .social-links {
 background-color: inherit;
