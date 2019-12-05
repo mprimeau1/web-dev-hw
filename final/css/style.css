@@ -113,18 +113,17 @@ header {
 
 /* Social media icons with color change on hover: */
 .social-links {
-background-color: inherit;
-width: inherit;
+background-color: rgb(86, 93, 92);
+width: 100%;
 /* Inherit positioning so it will set with parent sizing: */
-position: inherit;
+position: center;
 bottom: 20px;
-display: inline-block;
 }
 .social-links img {
-background-color: rgb(86, 93, 92);
 width: 5%;
 height: auto;
-float: left;
+float: center;
+position:center;
 }
 .social-links img:hover {
 background-color: rgb(47, 31, 77);
